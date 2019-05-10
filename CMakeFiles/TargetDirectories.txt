@@ -1,0 +1,3 @@
+/home/gaetano/Scrivania/Esercizi OpenCV/CannyOpenCv/CMakeFiles/rebuild_cache.dir
+/home/gaetano/Scrivania/Esercizi OpenCV/CannyOpenCv/CMakeFiles/canny.dir
+/home/gaetano/Scrivania/Esercizi OpenCV/CannyOpenCv/CMakeFiles/edit_cache.dir
